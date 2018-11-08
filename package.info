@@ -1,5 +1,5 @@
 #
-#Tue Oct 16 01:27:56 CEST 2018
+#Thu Nov 08 13:01:57 CET 2018
 owner=gvSIG Association
 code=SentinelDownloader
 java-version=j1_7
@@ -17,5 +17,5 @@ categories=
 description=Tool for search and download Sentinel products.
 owner-url=
 buildNumber=2
-gvSIG-version=2.5.0
+gvSIG-version=3.0.0
 name=SentinelDownloader
